@@ -13,7 +13,7 @@ Our starter pack consists of:
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, after running **`npm install`** (only for the first time), you can run:
 
 ### `npm start`
 

@@ -1,3 +1,6 @@
+# Warning
+This project is obsolete and does not follows up to our current structure anymore. We'll be publishing a new approach through CRA boilerplate in the next few weeks.
+
 # Sizebay React Boilerplate
 
 This boilerplate covers our React front-end environment, from Fev. 2019 and beyond.
